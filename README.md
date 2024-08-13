@@ -1,8 +1,18 @@
 # 🎧 Nathan Estrin
 
-**`Data Analyst/Data Scientist`**
+**`Data Scientist`**
 
-Recently graduated from Marquette University with a Bachelors of Science in Biomedical Sciences with a minor in Data Science and Psychology. I have a passion for exploring the intersection of data science and healthcare.  Over the past year, I've been actively engaged in diverse projects that harness the power of machine learning and predictive modeling concepts. Specifically, my focus has revolved around the implementation of classification and regression trees to develop predictive models. I'm enthusiastic about collaborating on interdisciplinary projects that address real-world challenges, particularly in the realm of healthcare innovation. If you share similar interests or have ideas to explore together, don't hesitate to reach out. You can find me on LinkedIn or drop me an email at nathanestrin29@gmail.com. 
+👋 Hi, I’m Nathan Estrin.
+
+💼 I'm a data scientist based in Chicago, with recent experience as a Data Science Intern at Van Buren Advisors LLC. I recently graduated from Marquette University, and I'm currently focused on creating ML models, interactive dashboards, and conducting inference analysis.
+
+👀 I’m passionate about leveraging data to solve complex problems, especially in the healthcare sector. My work typically focuses on predictive modeling, data visualization, and statistical analysis. The tools I primarily use are Python, R, SQL, Power BI, and Tableau.
+
+🌱 I’m currently exploring deep learning techniques to improve health outcomes, particularly in projects that bridge the gap between technology and healthcare.
+
+💞️ I enjoy collaborating on data science projects that drive real-world impact. I'm also active in the data science community, staying updated with the latest trends and developments.
+
+📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/nathanestrin).
 
 ---
 
